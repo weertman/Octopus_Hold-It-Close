@@ -16,3 +16,6 @@ _____________________
 
 Please note. Two directories within DATA; dlc_continuous_data and dlc_inference. Have readme.md dropbox file links to the data files required for the code to run. 
 
+---------------------
+
+This project is primarily licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. If you use the code or data, please cite us!
