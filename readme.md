@@ -1,8 +1,7 @@
 GitHub Repo for:
 
-Hold It Close: Male Octopus Hold Their Hectocotylus Closer to Their Body
-Willem Lee Weertman^{1, 2}
-David Scheel1
+Weertman, W., & Scheel, D. (2023). Hold It Close: Male Octopus Hold Their Hectocotylus Closer to Their Body. doi:10.21203/rs.3.rs-2562006/v1
+
 1 Alaska Pacific University, 4101 University Drive, Anchorage AK 99508
 2 Friday Harbor Lab, University of Washington, 620 University Rd, Friday Harbor, WA 98250
 
