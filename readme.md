@@ -1,4 +1,4 @@
-Weertman, W.<sup>1,2</sup>, & Scheel, D.<sup>2</sup> (2023). Hold It Close: Male Octopus Hold Their Hectocotylus Closer to Their Body. doi:10.21203/rs.3.rs-2562006/v1
+Weertman, W.<sup>1,2</sup>, & Scheel, D.<sup>2</sup> (2023). **Hold It Close: Male Octopus Hold Their Hectocotylus Closer to Their Body.** doi:10.21203/rs.3.rs-2562006/v1
 
 <sup>1</sup> Alaska Pacific University, 4101 University Drive, Anchorage AK 99508  
 <sup>2</sup> Friday Harbor Lab, University of Washington, 620 University Rd, Friday Harbor, WA 98250
